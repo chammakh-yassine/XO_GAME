@@ -23,3 +23,9 @@ Player 2: "Bold move. I’m taking the corner!"
 Player 1: "Boom! Row win! X takes the crown!"
 
 Get ready to flex those brain muscles and put your game face on for the ultimate showdown in the timeless game of Tic Tac Toe. May the best mark win! 🏆
+
+
+**Yassine Chammakh
+
+GitHub: chammakh-yassine(https://github.com/chammakh-yassine))
+Email: yassine.chammakh0@gmail.com
